@@ -45,9 +45,9 @@ export function Poem() {
         >
           <img
             src="/images/demise-back-art.png"
-            alt="Demise back cover art — a crimson orb held by dark, gnarled roots"
-            width={588}
-            height={585}
+            alt="Demise back cover art — a luminous pink moonflower glowing against darkness"
+            width={658}
+            height={655}
           />
         </motion.figure>
 
