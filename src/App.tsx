@@ -4,6 +4,7 @@ import { Footer } from './components/Footer'
 import { Hero } from './components/Hero'
 import { Nav } from './components/Nav'
 import { Poem } from './components/Poem'
+import { Portal } from './components/Portal'
 import { Series } from './components/Series'
 import { Shop } from './components/Shop'
 
@@ -14,6 +15,7 @@ export default function App() {
       <main>
         <Hero />
         <Series />
+        <Portal />
         <Poem />
         <Shop />
         <About />
